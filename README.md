@@ -1,4 +1,4 @@
-# MiniBot AI Website
+# MindBot AI 
 This is a simple website for MiniBot AI, built using React.js and Tailwind CSS.
 Live : https://mindbot-ai.netlify.app
 
